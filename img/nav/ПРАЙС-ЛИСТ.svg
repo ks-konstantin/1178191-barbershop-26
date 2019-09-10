@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="15" viewBox="0 0 76 15">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 6.804px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: PTSans-NarrowBold, PTSans;
+      }
+    </style>
+  </defs>
+  <text id="ПРАЙС-ЛИСТ" class="cls-1" transform="translate(37.803 14.179) scale(2.352)"><tspan x="0">ПРАЙС-ЛИСТ</tspan></text>
+</svg>
